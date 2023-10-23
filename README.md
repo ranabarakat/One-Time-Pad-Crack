@@ -1,7 +1,7 @@
 # One-Time Pad Crack
 
 ## Background
-The one-time pad is a cryptographic technique known for its theoretical security when used correctly. It involves the encryption of messages using a secret key that is at least as long as the plaintext. Each bit or character in the plaintext is XORed with the corresponding bit or character in the key, resulting in a ciphertext.
+The one-time pad is a cryptographic technique known for its theoretical security when used correctly. It involves the encryption of messages using a secret key that is at least as long as the plaintext. Each character in the plaintext is XORed with the corresponding character in the key, resulting in a ciphertext.
 
 The key is crucial in the one-time pad encryption. It must be random, used only once, and kept secret. The fundamental principle behind the one-time pad's security is that if the key is truly random and used only once, it becomes computationally infeasible for an adversary to decrypt the ciphertext without the key.
 
