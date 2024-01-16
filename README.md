@@ -112,7 +112,7 @@ __I used the input prompt several times to guess one full message:__
 
 ## Results
 
-Using this approach, I was able to obtain all six plaintexts messages:
+Using this approach, I was able to obtain all six plaintext messages:
 
 1. Buffer overruns are dangerous
 2. Use two factor authentication
